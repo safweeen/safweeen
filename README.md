@@ -17,7 +17,7 @@ I am passionate about coding, learning, and building meaningful projects.
 ## 🚀 Notable Contributions
 
 - 🌟 [5ademni]([(https://github.com/5ademni/projet-web-2A)): Description
-- ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+
 
 
 
