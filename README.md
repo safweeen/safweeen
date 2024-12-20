@@ -12,3 +12,8 @@ I am passionate about coding, learning, and building meaningful projects.
 - 📫 Reach me: [Email](mailto:safwen.haboubi@esprit.tn) | [LinkedIn](https://linkedin.com/in/safwen).  
 
 ---
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+![Profile Views](https://komarev.com/ghpvc/?username=YourUsername&color=blue)
+## 🚀 Notable Contributions
+- 🔧 [Project Name](https://github.com/YourUsername/YourProject): Description
+- 🌟 [Another Project](https://github.com/YourUsername/AnotherProject): Description
