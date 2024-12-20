@@ -17,5 +17,5 @@ I am passionate about coding, learning, and building meaningful projects.
 ## 🚀 Notable Contributions
 
 - 🌟 [5ademni]([(https://github.com/5ademni/projet-web-2A)): Description
-- <img src="https://avatars.githubusercontent.com/u/YourUserID?v=4" width="150" />
+
 
