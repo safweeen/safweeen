@@ -17,3 +17,5 @@ I am passionate about coding, learning, and building meaningful projects.
 ## 🚀 Notable Contributions
 - 🔧 [Project Name](https://github.com/YourUsername/YourProject): Description
 - 🌟 [Another Project](https://github.com/YourUsername/AnotherProject): Description
+- <img src="https://avatars.githubusercontent.com/u/YourUserID?v=4" width="150" />
+
