@@ -18,4 +18,5 @@ I am passionate about coding, learning, and building meaningful projects.
 
 - 🌟 [5ademni]([(https://github.com/5ademni/projet-web-2A)): Description
 
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=YourWakaTimeUsername)
 
